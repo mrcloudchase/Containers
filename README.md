@@ -14,4 +14,4 @@
 
 5. [Setup Docker Hub](https://hub.docker.com/)
 
-6. [Download Exercise Files]()
+6. [Download Exercise Files](https://raw.githubusercontent.com/mrcloudchase/Containers/main/download_exercise_files.sh)
