@@ -30,22 +30,3 @@ docker image ls
 ##########################
 # Run Container
 docker run -p 1234:80 containerdemo
-
-# STEP 5
-##########################
-# Push container image to Docker Hub
-# Login to Docker Hub from CLI
-docker login --username=username --email=email@company.com
-# check image ID
-docker images
-# tag image
-docker tag <image_id> dockerhubusername/containerdemo:latest
-# push image
-docker push dockerhubusername/containerdemo:latest
-
-# STEP 6
-##########################
-# Verify Docker Hub via browser
-# Visit http://127.0.0.1:1234
-
-######## END #############
