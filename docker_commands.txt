@@ -3,8 +3,8 @@
 # STEP 1
 ############################
 # Make Project directory and change directory
-mdkir -v $USER/Desktop/Projects
-cd $USER/Desktop/Projects
+mdkir -v ~/Desktop/Projects
+cd ~/Desktop/Projects
 
 # STEP 2
 ############################
