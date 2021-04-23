@@ -1,7 +1,7 @@
 # Containers
 
 
-# Pre-requisites for setting up a container environment
+## Pre-requisites for setting up a container environment
 
 
 1. [Install Hypervisor](https://www.virtualbox.org/wiki/Downloads)
@@ -10,8 +10,16 @@
 
 3. [Create Ubuntu Virtual Machine](https://brb.nci.nih.gov/seqtools/installUbuntu.html)
 
-4. [Update Packages](https://raw.githubusercontent.com/mrcloudchase/Containers/main/env_setup_commands.txt)
+4. [Setup Environment](https://raw.githubusercontent.com/mrcloudchase/Containers/main/env_setup_commands.txt)
 
 5. [Setup Docker Hub](https://hub.docker.com/)
 
 6. [Download Exercise Files](https://raw.githubusercontent.com/mrcloudchase/Containers/main/download_exercise_files.sh)
+
+
+## Docker Container Exercise
+
+ATTENTION: All of this is done an Ubuntu 20.04 LTS Virtual Machine on VirtualBox
+
+
+1. [Docker Commands]()
