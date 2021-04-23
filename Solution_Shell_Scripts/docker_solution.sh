@@ -12,9 +12,9 @@ cd ~/Desktop/LiveDemo
 ############################
 # Download Exercise files
 # Download Dockerfile
-curl -o ~/Desktop/LiveDemo/Dockerfile https://raw.githubusercontent.com/mrcloudchase/Containers/main/Dockerfile
+curl -o ~/Desktop/LiveDemo/Dockerfile https://raw.githubusercontent.com/mrcloudchase/Containers/main/Exercise_Files/Dockerfile
 # Download index.html
-curl -o ~/Desktop/LiveDemo/index.html https://raw.githubusercontent.com/mrcloudchase/Containers/main/index.html
+curl -o ~/Desktop/LiveDemo/index.html https://raw.githubusercontent.com/mrcloudchase/Containers/main/Exercise_Files/index.html
 
 # STEP 2
 ############################
