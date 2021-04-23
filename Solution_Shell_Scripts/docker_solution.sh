@@ -1,10 +1,22 @@
+#!/bin/bash
+# Download Exercise files
+# Download Dockerfile
+curl -o Dockerfile https://raw.githubusercontent.com/mrcloudchase/Containers/main/Dockerfile
+
+# Download index.html
+curl -o index.html https://raw.githubusercontent.com/mrcloudchase/Containers/main/index.html
+
+
+
+###### START HERE #########
 # Run to follow Docker container exercise
+
 
 # STEP 1
 ############################
 # Make Project directory and change directory
-mdkir -v ~/Desktop/Projects
-cd ~/Desktop/Projects
+mdkir -v ~/Desktop/LiveDemo
+cd ~/Desktop/LiveDemo
 
 # STEP 2
 ############################
@@ -37,3 +49,5 @@ docker push dockerhubusername/containerdemo:latest
 ##########################
 # Verify Docker Hub via browser
 # Visit http://127.0.0.1:1234
+
+######## END #############
