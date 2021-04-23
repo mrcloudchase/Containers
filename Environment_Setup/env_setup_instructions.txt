@@ -64,3 +64,6 @@ newgrp docker
 #############################
 # Run to verify
 docker run hello-world
+
+
+# You can also just download the shell script in this repo folder and run it
