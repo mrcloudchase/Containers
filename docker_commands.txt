@@ -8,30 +8,20 @@ cd $USER/Desktop/Projects
 
 # STEP 2
 ############################
-# get Dockerfile manifest
-curl -o Dockerfile 
-
-# STEP 3
-############################
-# get index.html file
-curl -o index.html
-
-# STEP 4
-############################
 # Build Container Image
 docker build --tag containerdemo .
 
-# STEP 5
+# STEP 3
 ###########################
 # List built images
 docker image ls
 
-# STEP 6
+# STEP 4
 ##########################
 # Run Container
 docker run -p 1234:80 containerdemo
 
-# STEP 7
+# STEP 5
 ##########################
 # Push container image to Docker Hub
 # Login to Docker Hub from CLI
@@ -43,7 +33,7 @@ docker tag <image_id> dockerhubusername/containerdemo:latest
 # push image
 docker push dockerhubusername/containerdemo:latest
 
-# STEP 8
+# STEP 6
 ##########################
 # Verify Docker Hub via browser
 # Visit http://127.0.0.1:1234
