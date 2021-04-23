@@ -1,5 +1,5 @@
 #!/bin/bash
-# Run these commands as part of my Docker container exercise
+# Run these commands to setup the environment
 
 # STEP 1
 ###############################
@@ -14,7 +14,7 @@ sudo apt-get install \
     ca-certificates \
     curl \
     gnupg \
-    lsb-release
+    lsb-release -y
 
 # STEP 3
 ###############################
