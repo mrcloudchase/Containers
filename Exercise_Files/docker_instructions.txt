@@ -4,7 +4,7 @@
 # STEP 0
 ############################
 # Make Project directory and change directory
-mdkir -v ~/Desktop/LiveDemo
+mkdir -v ~/Desktop/LiveDemo
 cd ~/Desktop/LiveDemo
 
 # STEP 1
