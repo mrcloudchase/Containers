@@ -10,9 +10,9 @@
 
 3. [Create Ubuntu Virtual Machine](https://brb.nci.nih.gov/seqtools/installUbuntu.html)
 
-4. [Setup Environment](https://raw.githubusercontent.com/mrcloudchase/Containers/main/env_setup_commands.txt)
+4. [Setup Docker Hub](https://hub.docker.com/)
 
-5. [Setup Docker Hub](https://hub.docker.com/)
+5. [Setup Environment](https://raw.githubusercontent.com/mrcloudchase/Containers/main/Environment_Setup/env_setup_instructions.txt)
 
 
 ## Docker Container Exercise
