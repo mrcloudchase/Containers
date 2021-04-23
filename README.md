@@ -19,7 +19,7 @@
 
 ## Docker Container Exercise
 
-ATTENTION: All of this is done an Ubuntu 20.04 LTS Virtual Machine on VirtualBox
+ATTENTION: All of this is done on an Ubuntu 20.04 LTS Virtual Machine on VirtualBox
 
 
 1. [Docker Commands]()
