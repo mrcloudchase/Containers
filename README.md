@@ -20,4 +20,4 @@
 ATTENTION: All of this is done on an Ubuntu 20.04 LTS Virtual Machine on VirtualBox
 
 
-1. [Docker Commands]()
+1. [Docker Commands](https://raw.githubusercontent.com/mrcloudchase/Containers/main/Exercise_Files/docker_instructions.txt)
