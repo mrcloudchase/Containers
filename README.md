@@ -13,3 +13,5 @@
 4. [Update Packages](https://raw.githubusercontent.com/mrcloudchase/Containers/main/env_setup_commands.txt)
 
 5. [Setup Docker Hub](https://hub.docker.com/)
+
+6. [Download Exercise Files]()
