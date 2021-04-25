@@ -39,9 +39,9 @@ sudo docker run hello-world
 
 
 
-***************************************
-*********** BONUS(optional) ***********
-***************************************
+#######################################
+########### BONUS OPTIONAL ############
+#######################################
 # We notice that we ran docker as a privileged user with `sudo`
 # Let's setup Docker to be run by non-privileged users
 
