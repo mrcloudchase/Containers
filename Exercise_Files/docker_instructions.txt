@@ -1,5 +1,6 @@
 ###### START HERE #########
 # Run to follow Docker container exercise
+## NOTE: Open a terminal and type each command and press ENTER to execute the command
 
 # STEP 0
 ############################

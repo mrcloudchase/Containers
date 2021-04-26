@@ -1,6 +1,6 @@
 #!/bin/bash
 # Run these commands to setup the environment
-
+## NOTE: Run this file from a terminal by typing sh ./env_setup.sh and pressing ENTER
 # STEP 1
 ###############################
 # Update Packages
